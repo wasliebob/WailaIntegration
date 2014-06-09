@@ -1,0 +1,16 @@
+[
+{
+  "modid": "WailaIntergration",
+  "name": "WailaIntergration",
+  "description": "Adding Waila Integration to some mods",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "Wasliebob, Creating the mod; ProfMobius, Creating Waila; All mod author which i'm adding Waila Support for; FML Team, Creating Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
